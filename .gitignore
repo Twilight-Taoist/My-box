@@ -33,3 +33,18 @@ build/
 dist/
 out/
 *.exe
+
+# ---- .NET / C#（2026-10-07 新增，C# 阶段开始）----
+# VS 生成的中间目录：里面有上千个文件，绝不能进仓库
+bin/
+obj/
+# VS 用户级配置与解决方案缓存
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+# NuGet 还原产物（本项目不提交包缓存）
+packages/
+*.nupkg
+# VS 的 .vs 隐藏目录（上面已有，这里再列一次防漏写路径）
+**/.vs/
