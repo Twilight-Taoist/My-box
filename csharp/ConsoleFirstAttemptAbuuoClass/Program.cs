@@ -1,0 +1,10 @@
+﻿Console.WriteLine("Hello, World!");
+Console.WriteLine("Now,I whil try to add a new class about add sub mul and div");
+double a = ClassLibraryAboutCalculation.Tool.Add(10, 20);
+Console.WriteLine(a);
+double b = ClassLibraryAboutCalculation.Tool.Sub(20, 10);
+Console.WriteLine(b);
+double c = ClassLibraryAboutCalculation.Tool.Mul(10, 20);
+Console.WriteLine(c);
+double d = ClassLibraryAboutCalculation.Tool.Div(20, 10);
+Console.WriteLine(d);
