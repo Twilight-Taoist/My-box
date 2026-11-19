@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="../CSharp异常捕获/CSharp异常捕获.csproj" Id="7ac00270-7d8f-4f37-972f-34028547197d" />
   <Project Path="CSharpGameAbout.csproj" Id="d0726b25-9bfc-4aed-bcb1-bdbb633ac9aa" />
   <Project Path="CSharp隐式转换与4种显式转化/CSharp隐式转换与4种显式转化.csproj" Id="54c49ab6-5357-4be5-99f0-154b393f3845" />
 </Solution>
