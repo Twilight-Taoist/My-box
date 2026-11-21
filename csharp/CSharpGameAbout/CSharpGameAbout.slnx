@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="../ConsoleApp1/CSharp7if练习.csproj" Id="ac16ca1c-3b35-4a8d-9ec9-3637cb308a3f" />
   <Project Path="../CSharp5字符串拼接/CSharp5字符串拼接.csproj" Id="d9fbe583-a020-4f0d-a510-db5ebe7de94a" />
   <Project Path="../Csharp5算数运算符/CSharp4算数运算符.csproj" Id="ae900106-cfb7-4732-b0bd-904700f5d1ad" />
   <Project Path="../CSharp6三目运算符/CSharp6三目运算符.csproj" Id="4bcbfc98-b592-436e-a91f-e6a3cbd9b277" />
