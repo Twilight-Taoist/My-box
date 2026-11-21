@@ -4,6 +4,7 @@
   <Project Path="../Csharp5算数运算符/CSharp4算数运算符.csproj" Id="ae900106-cfb7-4732-b0bd-904700f5d1ad" />
   <Project Path="../CSharp6三目运算符/CSharp6三目运算符.csproj" Id="4bcbfc98-b592-436e-a91f-e6a3cbd9b277" />
   <Project Path="../CSharp8switch使用/CSharp8switch使用.csproj" Id="2be7fcdf-1f0c-4aa7-a209-431f37bddb62" />
+  <Project Path="../CSharp8while的练习/CSharp9while的练习.csproj" Id="06ce06c2-54be-475c-b5fc-3bee8105a025" />
   <Project Path="../CSharp异常捕获/CSharp3异常捕获.csproj" Id="7ac00270-7d8f-4f37-972f-34028547197d" />
   <Project Path="CSharp1简单输入输出.csproj" Id="d0726b25-9bfc-4aed-bcb1-bdbb633ac9aa" />
   <Project Path="CSharp隐式转换与4种显式转化/CSharp2隐式转换与4种显式转化.csproj" Id="54c49ab6-5357-4be5-99f0-154b393f3845" />
