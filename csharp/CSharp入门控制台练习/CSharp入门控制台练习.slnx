@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="CSharp入门控制台练习.csproj" />
+  <Project Path="../CSharp4数组的使用/CSharp4数组的使用.csproj" Id="3b4b2af1-5b5d-47c7-9f0e-12c8945e3482" />
+  <Project Path="..\CSharp枚举练习\CSharp3枚举练习.csproj" Id="97a792f5-47c5-4b30-ac71-dddfdd24a2bc" />
+  <Project Path="..\CSharp随机数相关练习\CSharp2随机数相关练习.csproj" Id="c43df103-fb26-4dbe-8335-05026c4d6e82" />
+  <Project Path="CSharp1入门控制台练习.csproj" Id="e2eb7d35-9bf6-46ed-9006-f3cb1e5adcb0" />
 </Solution>
